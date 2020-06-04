@@ -1,0 +1,11 @@
+#tituloprincipal {
+    text-align: center;
+    padding: 4em 5em 1em 5em;
+    color: #000000;
+}
+
+#formulario {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
